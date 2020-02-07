@@ -17,7 +17,7 @@ def factorial(n):
         return 1
     return n * factorial(n-1)
 
-
+# test
 print(triple(10))
 print(factorial(5))
 
